@@ -8,5 +8,5 @@ This project has three goals:
 
 ![elections](https://www.ynet.co.il/PicServer5/2019/05/28/9272707/bi4.jpg)
 
-# Viewing the results
+# Viewing the Results
 The project is done using Python and Jupyter Notebook, as seen in the file: [**election_predicition.ipynb.ipynb**](https://github.com/AlonT1/ML-Election-Prediction/blob/main/election_predicition.ipynb)
